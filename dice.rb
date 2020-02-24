@@ -9,6 +9,6 @@ get "/" do
     view "dice"
 end
 
-# get "/tacos" do
-#     "Yes please"
-# end
+get "/tacos" do
+    "Yes please"
+end
